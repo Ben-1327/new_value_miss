@@ -16,6 +16,6 @@
 まずは、自己分析をした時にこのサイトに自己分析をアップしてもらい他人と共有し、また自分の価値観が変わり、その変化をまた自己分析する。などというものです。
 またその自己分析を企業側から見れるようにすることで就職活動をより深く良いものにできると確信しています。
 ## 設計書
-
+　
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1xoubne5VzNWazqbgupNIy_ZosjxJyFSjRAqcGpacA0U/edit?usp=sharing
