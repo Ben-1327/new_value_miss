@@ -1,0 +1,2 @@
+module SelfAnalysesHelper
+end
